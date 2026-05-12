@@ -1,4 +1,4 @@
-# Cluster-Based Loan Performance Dashboard
+# Cluster-Based Performance Dashboard
 - Retention tracking
 - Activation monitoring
 - Cluster segmentation insights
