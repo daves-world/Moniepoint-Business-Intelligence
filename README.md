@@ -49,3 +49,28 @@ cluster-loan-performance-dashboard/
 ├── datasets/
 ├── reports/
 └── documentation/
+
+---
+Key Business Value
+
+This dashboard helps stakeholders:
+
+## Make data-driven decisions
+- Monitor operational performance
+- Identify high-performing teams
+- Improve retention strategies
+- Track organizational KPIs efficiently
+
+---
+
+Future Improvements
+
+## Potential enhancements include:
+- Predictive loan forecasting
+
+---
+
+# Author
+## David Akande
+
+Data Analyst | Business Intelligence Analyst | Power BI Specialist | Data Management and Governance
