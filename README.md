@@ -39,20 +39,6 @@ Calculated Feilds |
 
 ---
 
-## Project Structure
-
-```bash
-cluster-loan-performance-dashboard/
-│
-├── README.md
-├── images/
-├── datasets/
-├── reports/
-└── documentation/
-```
-
----
-
 ## Key Business Value
 
 This dashboard helps stakeholders:
@@ -68,6 +54,19 @@ This dashboard helps stakeholders:
 Potential enhancements include:
 - Predictive loan forecasting
 
+---
+
+## Project Structure
+
+```bash
+cluster-loan-performance-dashboard/
+│
+├── README.md
+├── images/
+├── datasets/
+├── reports/
+└── documentation/
+```
 ---
 
 # Author
