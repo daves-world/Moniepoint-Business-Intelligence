@@ -64,7 +64,7 @@ This dashboard helps stakeholders:
 
 ---
 
-##Future Improvements
+## Future Improvements
 Potential enhancements include:
 - Predictive loan forecasting
 
