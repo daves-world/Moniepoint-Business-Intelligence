@@ -51,11 +51,11 @@ cluster-loan-performance-dashboard/
 └── documentation/
 
 ---
-Key Business Value
+
+## Key Business Value
 
 This dashboard helps stakeholders:
-
-## Make data-driven decisions
+- Make data-driven decisions
 - Monitor operational performance
 - Identify high-performing teams
 - Improve retention strategies
@@ -63,9 +63,8 @@ This dashboard helps stakeholders:
 
 ---
 
-Future Improvements
-
-## Potential enhancements include:
+##Future Improvements
+Potential enhancements include:
 - Predictive loan forecasting
 
 ---
